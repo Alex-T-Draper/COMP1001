@@ -15,4 +15,4 @@ main PROC ; main procedure
 	INVOKE ExitProcess, 0 ; call exit function
   
 main ENDP ; exit main procedure
-END main  ; stop assembling
+END main  ; stop assembling,
