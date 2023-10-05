@@ -6,7 +6,7 @@ ExitProcess PROTO, dwExitCode: DWORD  ; Exit process prototype
 
 .data ; data segment
 	; define your variables here
-  sum SDWORD ?  ; define a variable sum (32-bit) with initial value 0
+  answer SDWORD ?  ; define a variable sum (32-bit) with initial value 0
   
 .code ; code segment
 
